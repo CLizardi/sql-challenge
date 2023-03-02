@@ -1,3 +1,6 @@
+![craiyon_220811_databases_warehouse](https://user-images.githubusercontent.com/52866379/222321071-dfff6de3-84d0-44c7-9f8a-5f5e15ad284c.png)
+g
+
 # SQL Project
 This is a SQL project that I completed to demonstrate my proficiency in SQL and database management. In this project, I created a database schema to store information about employees, departments, and their salaries in a fictional company. I used PostgreSQL as the database management system and pgAdmin4 as the client tool.
 
