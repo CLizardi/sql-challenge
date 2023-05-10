@@ -1,4 +1,4 @@
-# SQL Challenge - SQL Data Analysis for Pewlett Hackard Employees from the 1980s and 1990s
+# SQL Challenge - SQL Data Analysis for Pewlett Hackard Employees from the 1980s and 1990s1
 ![craiyon_220811_databases_warehouse](https://user-images.githubusercontent.com/52866379/222321208-6161eea6-846c-417c-887f-2bfe0bb6f2ef.png)
 
 # Introduction
